@@ -53,7 +53,7 @@ subprojects {
         compile "org.apache.cassandra:cassandra-thrift:1.2.11"
         compile "org.quartz-scheduler:quartz:1.7.3"
         compile "org.xerial.snappy:snappy-java:1.0.4.1"
-        compile "com.googlecode.json-simple:json-simple:1.1"
+        compile "com.googlecode.json-simple:json-simple:1.1.1"
         compile(group: 'com.amazonaws', name: 'aws-java-sdk', version: '1.10.59')
         compile 'commons-io:commons-io:latest.release'
         compile 'commons-cli:commons-cli:latest.release'
