@@ -58,7 +58,7 @@ subprojects {
         compile 'commons-io:commons-io:latest.release'
         compile 'commons-cli:commons-cli:latest.release'
         compile "commons-configuration:commons-configuration:1.5"
-        compile 'commons-httpclient:commons-httpclient:3.1'
+        compile 'commons-httpclient:commons-httpclient:3.1-jenkins-1'
         compile "javax.ws.rs:jsr311-api:1.1.1"
         compile "joda-time:joda-time:2.0"
         compile "net.java.dev.jna:jna:3.2.3"
