@@ -64,7 +64,7 @@ subprojects {
         compile "net.java.dev.jna:jna:3.2.3"
         compile "org.apache.httpcomponents:httpcore:4.2.2"
         compile "com.ning:compress-lzf:0.9.5"
-        compile "org.slf4j:slf4j-api:1.6.1"
+        compile "org.slf4j:slf4j-api:1.7.30"
         compile "org.slf4j:slf4j-log4j12:1.6.1"
         compile "redis.clients:jedis:2.7.3"
         compile "junit:junit:4.11"
